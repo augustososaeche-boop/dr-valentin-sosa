@@ -168,14 +168,7 @@ export default function Home() {
                       de apenas 2 a 3 milímetros.
                     </p>
 
-                    <div className="bg-background p-6 border-l-4 border-accent my-8">
-                      <h3 className="text-xl font-semibold text-foreground mb-3">Ventajas Principales</h3>
-                      <p className="text-base text-muted-foreground mb-4">
-                        Este abordaje quirúrgico permite realizar las correcciones óseas necesarias mediante 
-                        instrumental especializado, guiado por fluoroscopia (rayos X en tiempo real), 
-                        minimizando el trauma a los tejidos blandos circundantes.
-                      </p>
-                    </div>
+
 
                     <p className="text-lg text-foreground leading-relaxed mb-6">
                       El procedimiento corrige la desviación del primer metatarsiano y realinea el dedo gordo, 
@@ -184,30 +177,7 @@ export default function Home() {
                       y cicatrices prácticamente imperceptibles.
                     </p>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-                      <Card className="border-2">
-                        <CardContent className="p-6">
-                          <h4 className="font-semibold text-foreground mb-3 flex items-center gap-2">
-                            <div className="w-2 h-2 bg-primary rounded-full"></div>
-                            Duración
-                          </h4>
-                          <p className="text-sm text-muted-foreground">
-                            Entre 30 y 60 minutos por pie, dependiendo de la complejidad del caso.
-                          </p>
-                        </CardContent>
-                      </Card>
-                      <Card className="border-2">
-                        <CardContent className="p-6">
-                          <h4 className="font-semibold text-foreground mb-3 flex items-center gap-2">
-                            <div className="w-2 h-2 bg-primary rounded-full"></div>
-                            Hospitalización
-                          </h4>
-                          <p className="text-sm text-muted-foreground">
-                            Procedimiento ambulatorio. Alta el mismo día de la cirugía.
-                          </p>
-                        </CardContent>
-                      </Card>
-                    </div>
+
                   </div>
                 </div>
               </div>
