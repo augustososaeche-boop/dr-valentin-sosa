@@ -35,7 +35,7 @@ export default function Home() {
             <div className="flex items-center gap-3">
               <div className="w-1 h-12 bg-primary"></div>
               <div>
-                <h1 className="text-xl font-semibold tracking-tight text-foreground">Dr. Valentín Sosa</h1>
+                <h1 className="font-semibold tracking-tight text-foreground" style={{fontSize: '28px'}}>Dr. Valentín Sosa</h1>
                 <p className="text-xs text-muted-foreground">Especialista Recertificado. M.P: 447702</p>
               </div>
             </div>
@@ -77,7 +77,7 @@ export default function Home() {
                 <div className="space-y-6">
                   <div className="inline-block px-4 py-2 bg-primary/10 border-l-4 border-primary">
                     <p className="text-sm font-semibold text-primary tracking-wide uppercase">
-                      Especialista Recertificado
+                      Médico Traumatólogo
                     </p>
                   </div>
                   
