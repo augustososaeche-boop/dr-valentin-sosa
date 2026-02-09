@@ -406,8 +406,8 @@ export default function Home() {
               <div className="space-y-6">
                 <Card className="border-2 shadow-lg overflow-hidden">
                   <img 
-                    src="https://private-us-east-1.manuscdn.com/sessionFile/F7xHduwsUNYEzxNQsvRJoB/sandbox/sgl9YQeVpgzGFMvXRrnQEF-img-4_1770655545000_na1fn_bWVkaWNhbC1jb25zdWx0YXRpb24.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRjd4SGR1d3NVTllFenhOUXN2UkpvQi9zYW5kYm94L3NnbDlZUWVWcGd6R0ZNdlhScm5RRUYtaW1nLTRfMTc3MDY1NTU0NTAwMF9uYTFmbl9iV1ZrYVdOaGJDMWpiMjV6ZFd4MFlYUnBiMjQucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=P4ctGxrSBQEQ2UkRG8pw8LJOYLY8H1KaN6smaR1m2Rpra~JbYOTHnnsh7TrPhL-V1lqqtUeceN41-wpBuMyLl1CwEeTuc3Q35b4jh41Xl4~Tf3Q6s8PjVeQOo3p30OaHlPh-JYcur-TJZhXvwItrOY-B9HRVwFd0HWOAuH~Hb0a1YYBPJo-2pd39cJwZbv5N4xZLdaGTO9tjdQPo3vOmsTByDvC1Pdunr4cbUGw7A5Oc6UhsqFp4sQVzroxIG~2XkTLo8FicT57St4INEJTGAPrz5JJd~Fn3G8UBaiL8UAiK8IcHQWlsJQ9xKVvXlv8HI~dq8ygUNpBPpk~boOuaPQ__"
-                    alt="Consulta médica profesional"
+                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/zdVhbXbCZBKrAUij.png"
+                    alt="APEX y Clínica La Pequeña Familia"
                     className="w-full h-80 object-cover"
                   />
                   <CardContent className="p-6">
