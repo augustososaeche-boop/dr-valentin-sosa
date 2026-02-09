@@ -49,10 +49,12 @@ export default function Home() {
               <a href="#contacto" className="text-sm font-medium text-foreground hover:text-primary transition-colors duration-150">
                 Contacto
               </a>
-              <Button size="sm" className="transition-all duration-150">
-                <Phone className="w-4 h-4 mr-2" />
-                Consultar
-              </Button>
+              <a href="http://wa.me/5492364539366" target="_blank" rel="noopener noreferrer">
+                <Button size="sm" className="transition-all duration-150">
+                  <Phone className="w-4 h-4 mr-2" />
+                  Consultar
+                </Button>
+              </a>
             </nav>
           </div>
         </div>
@@ -102,10 +104,12 @@ export default function Home() {
                   </div>
 
                   <div className="flex flex-wrap gap-4 pt-4">
-                    <Button size="lg" className="text-base px-8 transition-all duration-150 hover:shadow-lg">
-                      <Phone className="w-5 h-5 mr-2" />
-                      Agendar Consulta
-                    </Button>
+                    <a href="http://wa.me/5492364539366" target="_blank" rel="noopener noreferrer">
+                      <Button size="lg" className="text-base px-8 transition-all duration-150 hover:shadow-lg">
+                        <Phone className="w-5 h-5 mr-2" />
+                        Agendar Consulta
+                      </Button>
+                    </a>
                     <Button size="lg" variant="outline" className="text-base px-8 transition-all duration-150">
                       Más Información
                       <ChevronRight className="w-5 h-5 ml-2" />
@@ -393,10 +397,12 @@ export default function Home() {
                     </div>
 
                     <div className="mt-8 pt-6 border-t border-border">
-                      <Button className="w-full" size="lg">
-                        <Phone className="w-5 h-5 mr-2" />
-                        Solicitar Consulta
-                      </Button>
+                      <a href="http://wa.me/5492364539366" target="_blank" rel="noopener noreferrer" className="block">
+                        <Button className="w-full" size="lg">
+                          <Phone className="w-5 h-5 mr-2" />
+                          Solicitar Consulta
+                        </Button>
+                      </a>
                     </div>
                   </CardContent>
                 </Card>
