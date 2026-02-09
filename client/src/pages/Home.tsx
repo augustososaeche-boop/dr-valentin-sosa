@@ -426,24 +426,7 @@ export default function Home() {
                   </CardContent>
                 </Card>
 
-                <Card className="border-2 shadow-lg bg-primary/5">
-                  <CardContent className="p-6">
-                    <div className="flex items-start gap-4">
-                      <AlertCircle className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
-                      <div>
-                        <h4 className="font-semibold text-foreground mb-2">Emergencias</h4>
-                        <p className="text-sm text-muted-foreground mb-3">
-                          Para urgencias fuera del horario de atención, comuníquese al número 
-                          de emergencias: <strong className="text-foreground">+598 99 999 999</strong>
-                        </p>
-                        <Button variant="outline" size="sm" className="w-full">
-                          Portal de Pacientes
-                          <ChevronRight className="w-4 h-4 ml-2" />
-                        </Button>
-                      </div>
-                    </div>
-                  </CardContent>
-                </Card>
+
               </div>
             </div>
           </div>
@@ -477,21 +460,7 @@ export default function Home() {
               </ul>
             </div>
 
-            <div>
-              <h4 className="font-semibold mb-4">Información de Emergencia</h4>
-              <div className="space-y-3 text-sm text-background/70">
-                <p>
-                  <strong className="text-background">Emergencias 24/7:</strong><br />
-                  +598 99 999 999
-                </p>
-                <p>
-                  <strong className="text-background">Portal de Pacientes:</strong><br />
-                  <a href="#" className="hover:text-background transition-colors duration-150 underline">
-                    pacientes.drvalentinsosa.com
-                  </a>
-                </p>
-              </div>
-            </div>
+
           </div>
 
           <div className="pt-8 border-t border-background/20 text-center text-sm text-background/60">
