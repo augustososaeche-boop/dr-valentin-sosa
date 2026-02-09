@@ -194,8 +194,8 @@ export default function Home() {
                     className="w-full rounded-lg shadow-lg border-2 border-border"
                   />
                   <img 
-                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/QfatkcvIEddXbSfC.jpg"
-                    alt="Antes y después del procedimiento"
+                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/jYnCFlRjVphJexYu.jpeg"
+                    alt="Imagen radiográfica del procedimiento"
                     className="w-full rounded-lg shadow-lg border-2 border-border"
                   />
                 </div>
