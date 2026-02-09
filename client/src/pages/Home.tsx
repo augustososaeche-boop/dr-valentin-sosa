@@ -36,7 +36,7 @@ export default function Home() {
               <div className="w-1 h-12 bg-primary"></div>
               <div>
                 <h1 className="text-xl font-semibold tracking-tight text-foreground">Dr. Valentín Sosa</h1>
-                <p className="text-xs text-muted-foreground">Traumatólogo Especialista</p>
+                <p className="text-xs text-muted-foreground">Especialista Recertificado. M.P: 447702</p>
               </div>
             </div>
             <nav className="hidden md:flex items-center gap-8">
