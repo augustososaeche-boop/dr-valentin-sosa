@@ -300,27 +300,19 @@ export default function Home() {
                   <h3 className="text-2xl font-semibold text-foreground mb-4">Cuidados Postquirúrgicos</h3>
                   <div className="space-y-4 text-sm text-muted-foreground">
                     <div className="bg-accent/10 p-4 rounded-lg border-l-4 border-accent">
-                      <h4 className="font-semibold text-foreground mb-2">Primeras 48-72 horas:</h4>
+                      <h4 className="font-semibold text-foreground mb-2">El paciente:</h4>
                       <ul className="space-y-2">
-                        <li>• Reposo relativo con pie elevado</li>
-                        <li>• Aplicación de hielo local (20 min cada 2-3 horas)</li>
-                        <li>• Medicación analgésica y antiinflamatoria</li>
+                        <li>• Debe deambular el mismo día de la intervención.</li>
+                        <li>• NO requiere de internación</li>
+                        <li>• NO necesita inmovilización con yeso ni férula. Solamente vendaje.</li>
                       </ul>
                     </div>
 
                     <div className="space-y-3 pt-2">
-                      <h4 className="font-semibold text-foreground">Primera semana:</h4>
+                      <h4 className="font-semibold text-foreground">REHABILITACIÓN INMEDIATA.</h4>
                       <p className="leading-relaxed">
-                        Uso de calzado postquirúrgico especial que permite la deambulación inmediata 
-                        apoyando el talón. Vendaje compresivo que se cambia en consulta.
-                      </p>
-                    </div>
-
-                    <div className="space-y-3">
-                      <h4 className="font-semibold text-foreground">2-6 semanas:</h4>
-                      <p className="leading-relaxed">
-                        Progresión gradual de la carga. Control radiográfico para verificar la 
-                        consolidación ósea. Inicio de ejercicios de movilidad.
+                        El paciente puede deambular inmediatamente después de la intervención. 
+                        Se utiliza vendaje compresivo que se cambia en consulta para facilitar la recuperación rápida.
                       </p>
                     </div>
 
@@ -332,13 +324,7 @@ export default function Home() {
                       />
                     </div>
 
-                    <div className="bg-muted/50 p-4 rounded-lg mt-4">
-                      <p className="text-xs leading-relaxed">
-                        <strong className="text-foreground">Tiempo de recuperación completa:</strong> La mayoría 
-                        de los pacientes retoman sus actividades normales entre 6-8 semanas, con retorno 
-                        progresivo a actividades deportivas alrededor de las 12 semanas.
-                      </p>
-                    </div>
+
                   </div>
                 </CardContent>
               </Card>
@@ -377,8 +363,8 @@ export default function Home() {
                         </div>
                         <div>
                           <h4 className="font-semibold text-foreground mb-1">Teléfono</h4>
-                          <p className="text-muted-foreground">+598 99 123 456</p>
-                          <p className="text-sm text-muted-foreground mt-1">Lun - Vie: 9:00 - 18:00</p>
+                          <p className="text-muted-foreground">0236-4448110</p>
+                          <p className="text-sm text-muted-foreground mt-1"></p>
                         </div>
                       </div>
 
@@ -388,7 +374,7 @@ export default function Home() {
                         </div>
                         <div>
                           <h4 className="font-semibold text-foreground mb-1">Email</h4>
-                          <p className="text-muted-foreground">consultas@drvalentinsosa.com</p>
+                          <p className="text-muted-foreground">sosav@intramed.net</p>
                           <p className="text-sm text-muted-foreground mt-1">Respuesta en 24-48 horas</p>
                         </div>
                       </div>
@@ -398,27 +384,15 @@ export default function Home() {
                           <MapPin className="w-6 h-6 text-primary" />
                         </div>
                         <div>
-                          <h4 className="font-semibold text-foreground mb-1">Ubicación</h4>
+                          <h4 className="font-semibold text-foreground mb-1">Ubicaciones</h4>
                           <p className="text-muted-foreground">
-                            Av. Italia 2525, Piso 3<br />
-                            Montevideo, Uruguay
+                            <strong>APEX:</strong> Arquimedes 39, Junín (B)<br />
+                            <strong>Clínica LA PEQUEÑA FAMILIA:</strong> Ruta 188 y Alberdi, Junín (B)
                           </p>
                         </div>
                       </div>
 
-                      <div className="flex items-start gap-4">
-                        <div className="w-12 h-12 bg-accent/10 rounded-lg flex items-center justify-center flex-shrink-0">
-                          <Clock className="w-6 h-6 text-accent" />
-                        </div>
-                        <div>
-                          <h4 className="font-semibold text-foreground mb-1">Horarios de Atención</h4>
-                          <div className="text-sm text-muted-foreground space-y-1">
-                            <p>Lunes a Viernes: 9:00 - 18:00</p>
-                            <p>Sábados: 9:00 - 13:00</p>
-                            <p>Domingos: Cerrado</p>
-                          </div>
-                        </div>
-                      </div>
+
                     </div>
 
                     <div className="mt-8 pt-6 border-t border-border">
