@@ -83,7 +83,7 @@ export default function Home() {
                   
                   <h1 className="text-5xl md:text-7xl font-bold text-foreground leading-tight">
                     Cirugías Percutáneas<br />
-                    <span className="text-primary">Hallux Valgus</span>
+                    <span className="text-primary">Hallux Valgus (JUANETES)</span>
                   </h1>
                   
                   <div className="flex items-start gap-4 bg-accent/10 p-6 border-l-4 border-accent">
@@ -92,10 +92,12 @@ export default function Home() {
                       <h3 className="text-xl font-semibold text-foreground mb-2">
                         Tratamiento de Juanetes con Técnica Mínimamente Invasiva
                       </h3>
-                      <p className="text-base text-muted-foreground leading-relaxed">
-                        Procedimiento percutáneo de última generación para la corrección del Hallux Valgus (juanetes), 
-                        con mínimas incisiones, menor dolor postoperatorio y recuperación más rápida que las técnicas tradicionales.
-                      </p>
+                    <p className="text-base text-muted-foreground leading-relaxed">
+                      Procedimiento percutáneo de última generación para la corrección del Hallux Valgus (juanetes), 
+                      con mínimas incisiones, menor dolor postoperatorio y recuperación más rápida que las técnicas tradicionales.
+                      <br /><br />
+                      <strong className="text-primary">NO DEJA CICATRICES</strong>
+                    </p>
                     </div>
                   </div>
 
