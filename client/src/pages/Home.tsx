@@ -273,10 +273,7 @@ export default function Home() {
                           <Check className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
                           <span>Recuperación más rápida</span>
                         </li>
-                        <li className="flex items-start gap-2">
-                          <Check className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                          <span>Menos náuseas postoperatorias</span>
-                        </li>
+
                         <li className="flex items-start gap-2">
                           <Check className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
                           <span>Alta el mismo día</span>
@@ -414,15 +411,7 @@ export default function Home() {
                     className="w-full h-80 object-cover"
                   />
                   <CardContent className="p-6">
-                    <h3 className="text-xl font-semibold text-foreground mb-3">
-                      Atención Personalizada
-                    </h3>
-                    <p className="text-sm text-muted-foreground leading-relaxed">
-                      En cada consulta realizamos una evaluación completa de su caso, incluyendo 
-                      examen físico y análisis de estudios radiográficos. Explicamos detalladamente 
-                      el procedimiento, resolvemos todas sus dudas y diseñamos un plan de tratamiento 
-                      adaptado a sus necesidades específicas.
-                    </p>
+                    <h3 className="text-2xl font-semibold text-foreground">APEX Y LA PEQUEÑA FAMILIA</h3>
                   </CardContent>
                 </Card>
 
