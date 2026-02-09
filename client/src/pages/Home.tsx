@@ -129,7 +129,7 @@ export default function Home() {
                           "Mínimas incisiones (2-3mm)",
                           "Recuperación más rápida",
                           "Menor dolor postoperatorio",
-                          "Anestesia local + sedación",
+                          "Anestesia local",
                           "Alta el mismo día"
                         ].map((benefit, idx) => (
                           <li key={idx} className="flex items-start gap-3">
@@ -311,10 +311,6 @@ export default function Home() {
 
                     <div className="space-y-3 pt-2">
                       <h4 className="font-semibold text-foreground">REHABILITACIÓN INMEDIATA.</h4>
-                      <p className="leading-relaxed">
-                        El paciente puede deambular inmediatamente después de la intervención. 
-                        Se utiliza vendaje compresivo que se cambia en consulta para facilitar la recuperación rápida.
-                      </p>
                     </div>
 
                     <div className="pt-4 border-t border-border">
@@ -346,8 +342,7 @@ export default function Home() {
                 Agende su Consulta
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Estamos aquí para ayudarle a recuperar su calidad de vida. Contáctenos para más información 
-                o para agendar una evaluación personalizada.
+                Contáctenos para más información o para agendar una evaluación personalizada.
               </p>
             </div>
 
