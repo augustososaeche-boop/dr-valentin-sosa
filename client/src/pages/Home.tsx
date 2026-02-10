@@ -194,7 +194,7 @@ export default function Home() {
                     className="w-full rounded-lg shadow-lg border-2 border-border"
                   />
                   <img 
-                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/jYnCFlRjVphJexYu.jpeg"
+                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/oUbwYvxBtKVRSYTb.jpeg"
                     alt="Imagen radiográfica del procedimiento"
                     className="w-full rounded-lg shadow-lg border-2 border-border"
                   />
@@ -244,7 +244,7 @@ export default function Home() {
                     </p>
                     <div className="pt-4 border-t border-border">
                       <img 
-                        src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/jYnCFlRjVphJexYu.jpeg"
+                        src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/oUbwYvxBtKVRSYTb.jpeg"
                         alt="Radiografía del procedimiento"
                         className="w-full rounded-lg mt-4"
                       />
