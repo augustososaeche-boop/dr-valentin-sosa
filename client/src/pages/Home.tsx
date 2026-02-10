@@ -315,7 +315,7 @@ export default function Home() {
 
                     <div className="pt-4 border-t border-border">
                       <img 
-                        src="https://private-us-east-1.manuscdn.com/sessionFile/F7xHduwsUNYEzxNQsvRJoB/sandbox/sgl9YQeVpgzGFMvXRrnQEF-img-3_1770655543000_na1fn_cmVjb3ZlcnktcGVhY2VmdWw.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvRjd4SGR1d3NVTllFenhOUXN2UkpvQi9zYW5kYm94L3NnbDlZUWVWcGd6R0ZNdlhScm5RRUYtaW1nLTNfMTc3MDY1NTU0MzAwMF9uYTFmbl9jbVZqYjNabGNua3RjR1ZoWTJWbWRXdy5wbmc~eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsd18xOTIwLGhfMTkyMC9mb3JtYXQsd2VicC9xdWFsaXR5LHFfODAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=CPt7gPtEGyGs23IkvNV7yJqQPC9xDZl0bts3Cx5he37fKzrqMGr0btDEiiYRWFklSR5dF3HoSgV2t45YJCxnCmV7ya47Qv-ZDfhmd10EYeq23gwyPg8joR79p2Xzr1N5uiC5oY71WBkwuPcJw6EY0GJndNhDR-GoOwHnJ9anXAarU3lqMrvRUuGkxEDGWeYbIg8xZ6Oz32Nl8fZSb6hjVE~238jg01AWnDdBgep-B6LcSCdUo7eybok9uBvtYbmP~tQOF5Inl8pm2yMOVxVRTZ1ZrqmdXRMWm7~NRpaoivjCswhjNqFzLBEL76MLjuhedXnunlPnPtVEo34n8KueUg__"
+                        src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/XVcaZojOGfprJhxX.png"
                         alt="Recuperación postquirúrgica"
                         className="w-full rounded-lg mt-4"
                       />
