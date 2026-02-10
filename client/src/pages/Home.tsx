@@ -392,6 +392,13 @@ export default function Home() {
                               </Button>
                             </a>
                           </div>
+                          <div className="mt-6 pt-6 border-t border-border">
+                            <img 
+                              src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/vBkdIrBpxcWWrmxm.png"
+                              alt="Clínica La Pequeña Familia"
+                              className="h-16 object-contain"
+                            />
+                          </div>
                         </div>
                       </div>
 
