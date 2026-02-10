@@ -407,7 +407,7 @@ export default function Home() {
               <div className="space-y-6">
                 <Card className="border-2 shadow-lg overflow-hidden">
                   <img 
-                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/FanvaTjYVDdIPkSl.png"
+                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/LzHndDBxBOjWKFkV.png"
                     alt="APEX y Clínica La Pequeña Familia"
                     className="w-full h-80 object-contain"
                   />
