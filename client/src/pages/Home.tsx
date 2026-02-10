@@ -382,8 +382,8 @@ export default function Home() {
                         <div>
                           <h4 className="font-semibold text-foreground mb-1">Ubicaciones</h4>
                           <p className="text-muted-foreground">
-                            Arquimedes 39, Junín (B)<br />
-                            <strong>Clínica LA PEQUEÑA FAMILIA:</strong> Ruta 188 y Alberdi, Junín (B)
+                            <strong>Clínica LA PEQUEÑA FAMILIA:</strong> Ruta 188 y Alberdi, Junín (B)<br />
+                            TEL: 2364407800
                           </p>
                           <div className="mt-4">
                             <a href="https://clinicalpf.datatech.com.ar/" target="_blank" rel="noopener noreferrer" className="block">
