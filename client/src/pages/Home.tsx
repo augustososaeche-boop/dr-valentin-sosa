@@ -410,21 +410,7 @@ export default function Home() {
                 </Card>
               </div>
 
-              {/* Imagen de Consulta */}
-              <div className="space-y-6">
-                <Card className="border-2 shadow-lg overflow-hidden">
-                  <img 
-                    src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343365141/LzHndDBxBOjWKFkV.png"
-                    alt="APEX y Clínica La Pequeña Familia"
-                    className="w-full h-80 object-contain"
-                  />
-                  <CardContent className="p-6">
-                    <h3 className="text-2xl font-semibold text-foreground">APEX Y LA PEQUEÑA FAMILIA</h3>
-                  </CardContent>
-                </Card>
 
-
-              </div>
             </div>
           </div>
         </section>
