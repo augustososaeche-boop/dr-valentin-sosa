@@ -36,7 +36,7 @@ export default function Home() {
               <div className="w-1 h-12 bg-primary"></div>
               <div>
                 <h1 className="font-semibold tracking-tight text-foreground" style={{fontSize: '28px'}}>Dr. Valentín Sosa</h1>
-                <p className="text-xs text-muted-foreground">Especialista Recertificado. M.P: 447702</p>
+                <p className="text-xs text-muted-foreground">Especialista Recertificado en ORTOPEDIA y TRAUMATOLOGÍA. M.P: 447702</p>
               </div>
             </div>
             <nav className="hidden md:flex items-center gap-8">
@@ -382,7 +382,7 @@ export default function Home() {
                         <div>
                           <h4 className="font-semibold text-foreground mb-1">Ubicaciones</h4>
                           <p className="text-muted-foreground">
-                            <strong>APEX:</strong> Arquimedes 39, Junín (B)<br />
+                            Arquimedes 39, Junín (B)<br />
                             <strong>Clínica LA PEQUEÑA FAMILIA:</strong> Ruta 188 y Alberdi, Junín (B)
                           </p>
                         </div>
