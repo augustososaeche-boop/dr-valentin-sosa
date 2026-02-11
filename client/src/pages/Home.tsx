@@ -406,7 +406,7 @@ export default function Home() {
                     </div>
 
                     <div className="mt-8 pt-6 border-t border-border">
-                      <a href="http://wa.me/5492364539366" target="_blank" rel="noopener noreferrer" className="block">
+                      <a href="https://clinicalpf.datatech.com.ar/" target="_blank" rel="noopener noreferrer" className="block">
                         <Button className="w-full" size="lg">
                           <Phone className="w-5 h-5 mr-2" />
                           Solicitar Consulta
